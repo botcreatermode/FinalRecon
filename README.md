@@ -1,4 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/rLENhCp.jpg"></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
@@ -7,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/thewhiteh4t"><b>Twitter</b></a>
+  <a href="https://twitter.com/botcreatermode"><b>Twitter</b></a>
   <span> - </span>
-  <a href="https://t.me/thewhiteh4t"><b>Telegram</b></a>
+  <a href="https://t.me/botcreatermode"><b>Telegram</b></a>
   <span> - </span>
-  <a href="https://thewhiteh4t.github.io"><b>thewhiteh4t's Blog</b></a>
+  <a href="https://botcreatermode.github.io"><b>botcreatermode's Blog</b></a>
 </p>
 
 | Available | in | |
@@ -136,7 +135,7 @@ doas pkg_add finalrecon
 ### Kali Linux
 
 ```bash
-git clone https://github.com/thewhiteh4t/FinalRecon.git
+git clone https://github.com/botcreatermode/FinalRecon.git
 cd FinalRecon
 pip3 install -r requirements.txt
 ```
@@ -144,8 +143,8 @@ pip3 install -r requirements.txt
 ### Docker
 
 ```
-docker pull thewhiteh4t/finalrecon
-docker run -it --entrypoint /bin/sh thewhiteh4t/finalrecon
+docker pull botcreatermode/finalrecon
+docker run -it --entrypoint /bin/sh botcreatermode/finalrecon
 ```
 
 ## Usage
